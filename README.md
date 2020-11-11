@@ -1,2 +1,2 @@
 # Polind
-training project
+training project in HTML/CSS + Node.js
